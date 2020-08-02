@@ -59,7 +59,7 @@ plt.xlabel('$x$',fontsize=15)
 plt.ylabel('$f(x)$',fontsize=15)
 plt.xticks(np.arange(4,8,0.4))
 plt.xlim(3.92,7.88)
-plt.ylim(100,1000)
+plt.ylim(0,1200)
 axes = plt.gca()
 axes.xaxis.set_minor_locator(MultipleLocator(0.05))
 # Save plot into png
