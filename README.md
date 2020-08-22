@@ -1,5 +1,5 @@
 # Tutorial_kNN_regression
-Codes and images used in blog post at https://www.mdelcueto.com/blog/example-nearest-neighbors-regression/
+Codes and images used in blog post with k-nearest neighbors regression tutorial at https://www.mdelcueto.com/blog/example-nearest-neighbors-regression/
 
 ---
 
