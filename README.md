@@ -11,3 +11,9 @@ pip3 install -r requirements.txt
 ```
 
 ---
+
+## License and copyright
+
+&copy; Marcos del Cueto Cordones
+
+Licensed under the [MIT License](LICENSE.md).
